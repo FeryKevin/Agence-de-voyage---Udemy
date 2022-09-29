@@ -1,0 +1,606 @@
+/* HEADER */
+
+
+#header
+{
+    height: 40px;
+    background-color: #0B1460;
+}
+
+.headerP p
+{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-family: 'Nunito Sans';
+}
+
+
+/* HOME */
+
+
+#aPropos
+{
+    background-image: url("../images/aPropos/bg-pagetitle.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#Navbar
+{
+    margin-top: 15px;
+}
+
+#Navbar a
+{
+    color: #0B1460;
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+}
+
+#Navbar .boutton
+{
+    text-align: center;
+    color: white;
+    background: #2667FF;
+    padding: 12px 30px;
+    border-radius: 4px;
+    margin-left: 100px;
+}
+
+.icon img
+{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    bottom: 45px;
+}
+
+.titreHome p
+{
+    color: #0B1460;
+    font-family: 'Nunito Sans';
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 90px;
+    margin-top: -35px;
+}
+
+.homept2 h4
+{
+    color: #0B1460;
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    padding-top: 80px;
+    padding-left: 90px;
+}
+
+
+/* A PROPOS */
+
+
+#block1
+{
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+.blkh1 h1
+{
+    color: #0B1460;
+    font-family: 'Quicksand';
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 100px;
+    padding-bottom: 15px;
+}
+
+.blk1 .pbleu
+{
+    color: #2667FF;
+    font-family: 'Nunito Sans';
+    padding-bottom: 2px;
+}
+
+.pblock0 p
+{
+    font-family: 'Nunito Sans';
+    color: #0B1460;
+    margin-bottom: 25px;
+}
+
+.pblock1 p
+{
+    font-family: 'Nunito Sans';
+    color: #0B1460;
+}
+
+.pblock2 p
+{
+    font-family: 'Nunito Sans';
+    color: #0B1460;
+    padding-bottom: 28px;
+}
+
+.blkh3 h3
+{
+    color: #0B1460;
+    font-family: 'Quicksand';
+    font-weight: bold
+}
+
+.blkh4 h3
+{
+    color: #0B1460;
+    font-family: 'Quicksand';
+    font-weight: bold;
+}
+
+.btn10 .boutton10
+{
+    text-align: center;
+    color: white;
+    background: #2667FF;
+    padding: 12px 30px;
+    border-radius: 4px;
+}
+
+.block2 img
+{
+    height: 220%;
+    width: 220%;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.btn11 .boutton11
+{
+    text-align: center;
+    color: white;
+    background: #2667FF;
+    padding: 8px 12px;
+    border-radius: 2px;
+    position: relative;
+    top: 400px;   
+    left: 510px;
+}
+
+
+/* A PROPOS 3 */
+
+
+#aPropos3
+{
+    background-image: url(../images/aPropos/bg-facts.png);
+    background-color: #2667FF;
+    background-repeat: no-repeat;
+    background-size: 103% 100%;
+}
+
+.servpro h1
+{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Nunito Sans';
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+.servprotxt p
+{
+    color: white;
+    text-align: center;
+    font-family: 'Nunito Sans';
+    padding-bottom: 30px;
+}
+
+.overlay10
+{
+    background-color: white;
+    height: 150px;
+    width: 360px;
+    padding-top: 35px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.overlay10 h3
+{
+    color: #0B1460;
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    margin-left: 115px;
+    margin-top: 1px;
+}
+
+.overlay10 p
+{
+    color: #63637d;
+    font-family: 'Nunito Sans';
+    margin-left: 115px;
+    margin-top: 1px;
+    font-size: 17px;
+}
+
+.overlay10 img
+{
+    float: left;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.overlay11
+{
+    background-color: white;
+    height: 150px;
+    width: 360px;
+    padding-top: 35px;
+    border-radius: 5px;
+    margin-bottom: 250px;
+}
+
+.overlay11 h3
+{
+    color: #0B1460;
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    margin-left: 115px;
+    margin-top: 1px;
+}
+
+.overlay11 p
+{
+    color: #63637d;
+    font-family: 'Nunito Sans';
+    margin-left: 115px;
+    margin-top: 1px;
+    font-size: 17px;
+}
+
+.overlay11 img
+{
+    float: left;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+
+/* SECTION 4 (PHOTOS) */
+
+
+
+.overlay12
+{
+    background-color: white;
+    height: 320px;  
+    width: 268px;
+    padding-top: 13px;
+    border-radius: 5px;
+    margin-bottom: 22px;
+    margin-top: -150px;
+    box-shadow: 10px 5px 5px #ddd;
+}
+
+.imgpropos4 img
+{
+    height: 90%;
+    width: 90%;
+    margin-left: 13px;
+}
+
+.overlay12 h4
+{
+    color: #0B1460;
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.overlay12 p
+{
+    color: #2667FF;
+    font-family: 'Nunito Sans';
+    text-align: center;
+}
+
+.overlay13
+{
+    background-color: white;
+    height: 320px;  
+    width: 268px;
+    padding-top: 13px;
+    border-radius: 5px;
+    margin-bottom: 22px;
+    box-shadow: 10px 5px 5px #ddd;
+}
+
+.overlay13 h4
+{
+    color: #0B1460;
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.overlay13 p
+{
+    color: #2667FF;
+    font-family: 'Nunito Sans';
+    text-align: center;
+}
+
+
+/* SECTION 5 */
+
+
+.bgpropos5
+{
+    background-image: url(../images/aPropos/bg-couter.png);
+    background-color: #2667FF;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.proposh1 h1
+{
+    text-align: center;
+    color: white;
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.proposp5 p
+{
+    text-align: center;
+    color: white;
+    font-family: 'Nunito Sans';
+    margin-bottom: 40px;
+}
+
+
+/* SECTION 6 */
+
+
+.imgpropos6 img
+{
+    height: 100%;
+    width: 90%;
+}
+
+.propos6h1 h1
+{
+    color: #0B1460;
+    font-family: 'Quicksand';
+    font-weight: bold;
+    font-size: 37px;
+}
+
+.propos6pb p
+{
+    color: #2667FF;
+    font-family: 'Nunito Sans';
+    padding-top: 8px;
+    margin-bottom: none;
+    padding-bottom: 15px;
+}
+
+.shape1 img
+{
+    position: relative;
+    bottom: 520px;
+    right: 80px;
+}
+
+.shape2 img
+{
+    position: relative;
+    bottom: 150px;
+    right: 60px;
+}
+
+.shape3 img
+{
+    position: relative;
+    bottom: 685px;
+    left: 470px;
+}
+
+.shape4 img
+{
+    position: relative;
+    bottom: 350px;
+    left: 470px;
+    z-index: -1;
+}
+
+
+/* LOREM */
+
+#Lorem
+{
+    background-image: url("../images/aPropos/bg-3.png");
+    background-color: #0B1460;
+    background-position: center;
+    width: 100%;
+    height:100%;
+    padding-bottom: 50px;
+    padding-top: -100px;
+}
+
+.hLortem h1
+{
+    color: white;
+    font-family: 'Nunito Sans';
+    margin-top: 50px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.txtSimpleLorem
+{
+    color: #00ffa5;
+    margin-bottom: 20px;
+    padding-bottom: 4px;
+}
+
+.p2Lorem
+{
+    color: white;
+    font-family: 'Nunito Sans';
+}
+
+.imgLorem img
+{
+    margin-top: 45px;
+    height: 310px;
+}
+
+.btnLorem .boutton
+{
+    text-align: center;
+    color: white;
+    background: #2667FF;
+    padding: 12px 30px;
+    border-radius: 4px;
+}
+
+
+/* Menu */
+
+.menu1 h3
+{
+    color: #0B1460;
+    margin-top: 50px;
+    padding-bottom: 10px;
+}
+
+.menu1 .pMenu p
+{
+    color: #0B1460;
+    font-family: 'Nunito Sans';
+}
+
+.menu1 .numTel
+{
+    color: #2667FF;
+    font-family: 'Nunito Sans';
+    font-weight: none;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.menu2 h3
+{
+    color: #0B1460;
+    margin-top: 50px;
+    padding-bottom: 10px;
+}
+
+.menu2 p
+{
+    font-family: 'Nunito Sans';
+    color: #0B1460;
+}
+
+.menu2 .respon
+{
+    font-family: 'Nunito Sans';
+    margin-bottom: 50px;
+    color: #0B1460;
+}
+
+.menu3 h3
+{
+    color: #0B1460;
+    margin-top: 50px;
+    padding-bottom: 10px;
+}
+
+.menu3 p
+{
+    font-family: 'Nunito Sans';
+    color: #0B1460;
+}
+
+.menu3 .respon2
+{
+    font-family: 'Nunito Sans';
+    margin-bottom: 50px;
+    color: #0B1460;
+}
+
+.menu4 h3
+{
+    color: #0B1460;
+    margin-top: 50px;
+    padding-bottom: 10px;
+}
+
+.menu4 p
+{
+    color: #0B1460;
+}
+
+.menu4 .h5Menu
+{
+    color: #0B1460;
+    padding-top: 5px;
+}
+
+.menu4 .h5Menu img
+{
+    width: 100px;
+    margin-left: 6px;
+    font-weight: bold;
+}
+
+
+/* FOOT */
+
+
+.copyright
+{
+    color: #646987;
+    text-align: center;
+    background-color: #f5f9fc;
+    padding: 1px;
+    padding-top: 10px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-family: 'Nunitos Sans';
+}
+
+
+
+
+.Cat button6
+{
+    background:  #f0f4ff;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.How button6
+{
+    background:  #f0f4ff;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.text1 p
+{
+    font-family: 'Nunito Sans';
+    color: #0B1460;
+    padding-bottom: 15px;
+    padding-top: 10px;  
+}
